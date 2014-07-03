@@ -1,0 +1,12 @@
+C:\WINCE800\3rdParty\compact13tools\Bin\AboutBox.png
+C:\WINCE800\3rdParty\compact13tools\Bin\default.html
+C:\WINCE800\3rdParty\compact13tools\Bin\Image1.png
+C:\WINCE800\3rdParty\compact13tools\Bin\Compact13WebBrowser.exe
+C:\WINCE800\3rdParty\compact13tools\Bin\Compact13WebBrowser.pdb
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowser.AboutBox.resources
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowser.Compact13ToolsIEWebBrowser.resources
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowser.Properties.Resources.resources
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowserVS.csproj.GenerateResource.Cache
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowser.exe
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowser.pdb
+C:\WINCE800\3rdParty\compact13tools\VSProjects\Compact13WebBrowserVS\obj\Debug\Compact13WebBrowserVS.csprojResolveAssemblyReference.cache
